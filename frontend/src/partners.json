@@ -1,0 +1,39 @@
+[
+    {
+      "_id": "1",
+      "name": "Tech Innovators",
+      "logo": "https://via.placeholder.com/150",
+      "description": "Tech Innovators is a global leader in software and hardware solutions, committed to innovation and excellence."
+    },
+    {
+      "_id": "2",
+      "name": "Green Energy Co.",
+      "logo": "https://via.placeholder.com/150",
+      "description": "Green Energy Co. provides sustainable energy solutions with a focus on solar and wind energy technologies."
+    },
+    {
+      "_id": "3",
+      "name": "Global Health Partners",
+      "logo": "https://via.placeholder.com/150",
+      "description": "Global Health Partners is dedicated to improving healthcare infrastructure in underserved regions."
+    },
+    {
+      "_id": "4",
+      "name": "NextGen Robotics",
+      "logo": "https://via.placeholder.com/150",
+      "description": "NextGen Robotics specializes in robotics for industrial automation and smart manufacturing."
+    },
+    {
+      "_id": "5",
+      "name": "FinTech Solutions",
+      "logo": "https://via.placeholder.com/150",
+      "description": "FinTech Solutions provides modern financial technologies, empowering businesses with secure, scalable payment solutions."
+    },
+    {
+      "_id": "6",
+      "name": "EcoBuild Group",
+      "logo": "https://via.placeholder.com/150",
+      "description": "EcoBuild Group is focused on eco-friendly building materials and sustainable construction practices."
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Tech Corp",
+      "logo": "images/tech.jpg",
+      "description": "A leading tech company providing innovative solutions.",
+      "website": "https://www.bing.com/ck/a?!&&p=182987fd918ca88ed7ce0548a7f9dbda99abc5094cfbfdb0129f8c8f5ed97855JmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=tech+corp&u=a1aHR0cHM6Ly90ZWNoY29ycHMub3JnLw&ntb=1"
+    },
+    {
+      "name": "Green Earth Foundation",
+      "logo": "images/green.jpg",
+      "description": "An environmental organization focused on sustainability.",
+      "website": "https://www.bing.com/ck/a?!&&p=84c0a11da682de080f747532bd7a1761d3b8b5c12dba3683ab084d56568cb689JmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=green+earth+foundation&u=a1aHR0cHM6Ly93d3cuZ3JlZW5lYXJ0aGZvdW5kLm9yZy8&ntb=1"
+    },
+    {
+      "name": "Build Africa",
+      "logo": "images/build.jpg",
+      "description": "A nonprofit organization working to provide education and infrastructure in Africa.",
+      "website": "https://www.bing.com/ck/a?!&&p=a210917b3acfe757100fed692b263613a5522a438e23701a452215a2a65bb721JmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=build+africa&u=a1aHR0cHM6Ly93d3cuYnVpbGQtYWZyaWNhLm9yZy8&ntb=1"
+    },
+    {
+      "name": "Health Innovators",
+      "logo": "images/health.jpg",
+      "description": "A healthcare company dedicated to improving access to medical services globally.",
+      "website": "https://www.bing.com/ck/a?!&&p=688aee5d6f826a090ae3b6d37f27dddcf390a157222bd0a4fda1e5e068038fbfJmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=healthinnovators&u=a1aHR0cHM6Ly93d3cuaGVhbHRoaW5ub3ZhaXRvcnMuY29tLw&ntb=1"
+    },
+    {
+      "name": "Future Leaders Fund",
+      "logo": "images/future.jpg",
+      "description": "A fund that supports the development of young leaders in underrepresented regions.",
+      "website": "https://www.bing.com/ck/a?!&&p=036440b51dfe89d87e44eb4d0338c4af97e8e150f06281fe5c78923401b9a0adJmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=future+leaders+fund&u=a1aHR0cHM6Ly9pbWwuY29tLmF1L2Z1bmRzL2Z1dHVyZS1sZWFkZXJzLWZ1bmQv&ntb=1"
+    }
+  ]
+  

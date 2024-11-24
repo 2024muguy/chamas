@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Community Outreach",
+    "date": "2024-11-01T00:00:00.000Z",
+    "description": "A local community outreach event for raising awareness on climate change.",
+    "image": "images/comm.jpg",
+    "url": "https://example.com/community-outreach"
+  },
+  {
+    "title": "Engineering Summit 2024",
+    "date": "2024-12-10T00:00:00.000Z",
+    "description": "An international summit focused on engineering innovations and future trends.",
+    "image": "images/summit.jpg",
+    "url": "https://www.bing.com/ck/a?!&&p=2eb9b13b84cdde7cc562d484edf0c9cf3e812aa2e0e59e152eecf0deca9d6a84JmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=iek+convention&u=a1aHR0cHM6Ly9jb252ZW50aW9uLmlla2VueWEub3JnL2hvbWUuaHRtbA&ntb=1"
+  },
+  {
+    "title": "Tech Innovation Forum",
+    "date": "2024-11-20T00:00:00.000Z",
+    "description": "A forum where the latest technological advancements are showcased and discussed.",
+    "image": "images/tech.jpg",
+    "url": "https://www.bing.com/ck/a?!&&p=cebb95aa2c5522ac15a2fe87703d03b6be8c76bbd5b3d97ca14a631a48dd982eJmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=Tech+Innovation+Forum&u=a1aHR0cDovL3d3dy5jaGluYS5vcmcuY24vY2hpbmEvMjAyNC0xMS8yMS9jb250ZW50XzExNzU2MTMzNi5odG0&ntb=1"
+  },
+  {
+    "title": "Green Energy Workshop",
+    "date": "2024-11-05T00:00:00.000Z",
+    "description": "A workshop focusing on the latest green energy solutions and their applications.",
+    "image": "images/workshop.jpg",
+    "url": "https://www.bing.com/ck/a?!&&p=95d3ddb6e552e705da9297d4fe400544d1d1e94aa1ab459a54d43c7778f08e04JmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=green+energy+workshop&u=a1aHR0cHM6Ly9ncmVlbmVuZXJneWFmcmljYXN1bW1pdC5jb20vSG9tZQ&ntb=1"
+  },
+  {
+    "title": "AI and Robotics Conference",
+    "date": "2024-12-15T00:00:00.000Z",
+    "description": "An international conference bringing together AI and robotics experts to share insights.",
+    "image": "images/ai.jpg",
+    "url": "https://www.bing.com/ck/a?!&&p=1fe65c9410bc84c7a1ce900ed79541b33c970cb94d4269ebafad7717dc1d9eeeJmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=27ee9e86-ae3d-60e0-2a74-8a4baf2161ea&psq=ai+conferences+2024&u=a1aHR0cHM6Ly93d3cudW5pdGUuYWkvY29uZmVyZW5jZXMv&ntb=1"
+  }
+]

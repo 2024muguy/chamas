@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Women Entrepreneurs",
+      "type": "business",
+      "vision": "Empowering women entrepreneurs to grow their businesses.",
+      "members": "150",
+      "achievements": "Successful business ventures, job creation.",
+      "goals": "To create a network of women-owned businesses.",
+      "image": "/images/business.PNG"
+    },
+    {
+      "name": "Community Outreach",
+      "type": "community",
+      "vision": "Building stronger communities through social engagement.",
+      "members": "300",
+      "achievements": "Organized clean-up campaigns, charity events.",
+      "goals": "To involve women in impactful community projects.",
+      "image": "/images/community.PNG"
+    },
+    {
+      "name": "Financial Literacy for Women",
+      "type": "financial",
+      "vision": "Educating women on managing their finances effectively.",
+      "members": "200",
+      "achievements": "Conducted financial literacy workshops.",
+      "goals": "To increase financial literacy among women.",
+      "image": "/images/financial.PNG"
+    
+    }
+  ]
+  

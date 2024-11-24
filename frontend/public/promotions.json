@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Perfumes",
+      "description": "Elegant fragrances that uplift and inspire.",
+      "link": "/promotions/perfumes",
+      "image": "/images/perfumes.png"
+    },
+    {
+      "title": "Massage Services",
+      "description": "Relax and recharge with our exclusive services.",
+      "link": "/promotions/massage",
+      "image": "/images/massage.jpg"
+    },
+    {
+      "title": "Fashion",
+      "description": "Stay stylish while supporting a good cause.",
+      "link": "/promotions/fashion",
+      "image": "/images/fashion.jpg"
+    }
+  ]
+  
