@@ -27,7 +27,7 @@ const Home = ({ registeredRole }) => {
         >
           <h1>Welcome to Chama</h1>
           <p>
-            Empowering women to overcome poverty through digital technologies. Join a community where women pool resources for economic empowerment.
+            Join a community where women pool resources for economic empowerment.
           </p>
           <a href="/join"> 
           <Button variant="success" >
