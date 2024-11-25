@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 
 // Middleware
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ origin: 'https://chamas-iy7zospha-japheths-projects-20e21add.vercel.app/' }));
 app.use(express.json());
 
 // Log colors using chalk
